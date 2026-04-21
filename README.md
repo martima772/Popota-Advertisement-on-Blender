@@ -1,3 +1,4 @@
+
 POPOTA- ADVERTISEMENT 
 # 3D reconstruction: Advertising [Insert Brand Name]
 
@@ -21,3 +22,4 @@ For the realization, we adopted a hybrid approach to optimize production times:
 
 ---
 *Project for academic purposes carried out during the year 2024/2025*
+
