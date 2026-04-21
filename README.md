@@ -1,6 +1,6 @@
 
 POPOTA- ADVERTISEMENT 
-# 3D reconstruction: Advertising [Insert Brand Name]
+# 3D reconstruction: Advertising 
 
 This project was born as part of the Computer Animation course, in Politecnico di Torino, and was created in collaboration with Marta Tasca, Giuseppe Abatiello and Marianna Mercurio .
 
